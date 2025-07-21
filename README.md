@@ -1,1 +1,1 @@
-# web
+build configuration: web/public
